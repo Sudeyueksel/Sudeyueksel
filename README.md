@@ -1,16 +1,65 @@
-## Hi there 👋
+# 🦇 Hey, I'm Sudeee
 
-<!--
-**Sudeyueksel/Sudeyueksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💻 Software Engineering Student
+> 🤖 AI enthusiast
+> 🦇 Batman has a special place in my heart
+> 🏎️ Hot Wheels 
+> 🍫 Powered by code, hot chocolate & marshmallows
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+Hey! I'm a **Software Engineering student** who loves building things, breaking things, and figuring out how things work.
+
+I'm especially interested in **AI 🤖**, software development and all the cool stuff happening at the intersection of technology and creativity.
+
+When I'm not coding, you'll probably find me talking about **Batman 🦇**, checking out **Hot Wheels 🏎️**, or going down some random tech rabbit hole at 2 AM.
+
+I like learning by **building**, experimenting and occasionally making things way more complicated than they need to be. 😭
+
+---
+
+### 🛠️ Currently Learning & Exploring
+
+```text
+💻 Software Engineering
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🌐 Software Development
+⚙️ New technologies & frameworks
+🧪 Random ideas that somehow turn into projects
+```
+
+---
+
+### 🦇 A few things about me
+
+* 🦇 Batman > almost everything
+* 🏎️ Hot Wheels are tiny cars with huge personality
+* 🤖 AI is fascinating
+* 💻 I genuinely enjoy coding
+* 🧠 Always curious, always learning
+* 🍫 Hot chocolate with marshmallows makes everything better
+* 🚀 I like turning random ideas into actual projects
+
+
+### 🏎️ Fun fact
+
+I can spend way too much time looking at tiny Hot Wheels cars...
+
+...and somehow still convince myself that **"I don't have that one yet."** 💀
+
+---
+
+### 🦇 Motto
+
+> **"Why do we fall? So we can learn to code without Stack Overflow."**
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! 🖤</b>
+  <br>
+  <sub>Building stuff • Learning stuff • Breaking stuff • Repeating</sub>
+</p>
